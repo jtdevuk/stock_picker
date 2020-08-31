@@ -1,4 +1,3 @@
-
 def stock_picker(days)
   max_profit = 0
   trade_days = []
